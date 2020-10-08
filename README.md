@@ -1,2 +1,1 @@
-# Angular
- Aplicações Angular
+# Aplicações em Angular
